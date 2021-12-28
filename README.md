@@ -1,2 +1,2 @@
-## git-flow_test
-# 開発環境用リポジトリ
+# git-flow_test
+## 開発環境用リポジトリ
