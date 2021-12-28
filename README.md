@@ -1,2 +1,2 @@
-## git-flow_test
-# 機能追加用リポジトリ
+# git-flow_test
+## 機能追加用リポジトリ
